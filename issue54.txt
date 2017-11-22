@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Issue54 MASTER
-=======
-Issue54 ISSUE
->>>>>>> issue54
