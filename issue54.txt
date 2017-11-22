@@ -1,5 +1,3 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 MASTER AKay
-=======
-Issue54 ISSUE3
->>>>>>> issue54
