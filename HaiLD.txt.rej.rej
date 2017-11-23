@@ -1,0 +1,10 @@
+diff a/HaiLD.txt.rej b/HaiLD.txt.rej	(rejected hunks)
+@@ -0,0 +1,8 @@
++diff a/HaiLD.txt b/HaiLD.txt	(rejected hunks)
++@@ -1,4 +1,3 @@
++ asdadwdawd
++-dasdD
++\ No newline at end of file
++ dasdD
++ Hai Dai Phu
++\ No newline at end of file
